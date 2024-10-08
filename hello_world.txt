@@ -1,0 +1,5 @@
+Learning to check the status of any modified files, add to staging area and commit to github.
+git status
+git add <filename.type>
+git commit -m "Add <filename.type>"
+git commit -m "Edit <filename.type> and <filename.type>"
