@@ -3,3 +3,5 @@ git status
 git add <filename.type>
 git commit -m "Add <filename.type>"
 git commit -m "Edit <filename.type> and <filename.type>"
+
+Everything in quaotes is the descriptive message regarding changes to this version.
